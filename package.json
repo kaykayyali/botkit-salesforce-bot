@@ -29,13 +29,13 @@
     "chatbot"
   ],
   "dependencies": {
-    "botkit": "git://github.com/pkvenu/botkit#master",
+    "bitfinex": "^1.0.3",
+    "botkit": "https://github.com/pkvenu/botkit#master",
     "botkit-storage-redis": "^1.1.0",
     "dotenv": "^4.0.0",
     "http": "0.0.0",
-    "nforce": "^1.7.0",
     "os": "^0.1.1",
-    "redis": "^2.7.1",
+    "redis": "^2.8.0",
     "request": "^2.81.0",
     "url": "^0.11.0"
   },
